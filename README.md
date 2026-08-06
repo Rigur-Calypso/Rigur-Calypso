@@ -20,7 +20,6 @@
 - ⚡ Fun fact: I build things because I get bored waiting for someone else to
 - 📫 Reach me: **[bhagyeshkamal@gmail.com]** &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/bhagyesh-kamal-38a9b1324/)
 
-> Replace the email/LinkedIn placeholders above with your real links before publishing 🙂
 
 ---
 
