@@ -18,7 +18,7 @@
 - 🧠 Deep into **AI/ML** — from transformers to computer vision
 - 💻 Comfortable across the stack — frontend, backend, and infra
 - ⚡ Fun fact: I build things because I get bored waiting for someone else to
-- 📫 Reach me: **[email protected]** &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/your-handle)
+- 📫 Reach me: **[bhagyeshkamal@gmail.com]** &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/bhagyesh-kamal-38a9b1324/)
 
 > Replace the email/LinkedIn placeholders above with your real links before publishing 🙂
 
