@@ -14,8 +14,6 @@
 
 <p align="center">
   <a href="mailto:bhagyeshkamal@gmail.com"><img src="https://img.shields.io/badge/Email-bhagyeshkamal%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/bhagyesh-kamal-38a9b1324"><img src="https://img.shields.io/badge/LinkedIn-bhagyesh--kamal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://codeforces.com/profile/bhagyeshkamal"><img src="https://img.shields.io/badge/Codeforces-Specialist%20(1364)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://github.com/Rigur-Calypso"><img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
   <img src="https://komarev.com/ghpvc/?username=Rigur-Calypso&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
 </p>
